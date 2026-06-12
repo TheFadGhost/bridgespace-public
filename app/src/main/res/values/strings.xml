@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bridgespace Scanner</string>
+    <string name="scan_hint">Point at a QR code</string>
+    <string name="scanned_result">Scanned: %s</string>
+</resources>
